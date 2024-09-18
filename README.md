@@ -1,4 +1,14 @@
-## Hi there 👋
+## ⭐ Eric Sclafani ⭐
+
+[Computational linguistics](https://plato.stanford.edu/entries/computational-linguistics/) graduate turned fullstack .NET Developer currently employed at the **Kings County District Attorney's Office**.
+
+Outside of work, I love working on side projects. I am currently rebuilding my personal website in Angular.
+
+I have many more project ideas to try out so stay tuned 😉
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eric-sclafani&theme=onedark&margin-w=15)](https://github.com/eric-sclafani/github-profile-trophy)
 
 <!--
 **eric-sclafani/eric-sclafani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
