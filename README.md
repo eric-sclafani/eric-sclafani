@@ -2,11 +2,15 @@
 
 [Computational linguistics](https://plato.stanford.edu/entries/computational-linguistics/) graduate turned fullstack .NET Developer currently employed at the **Kings County District Attorney's Office**.
 
-Outside of work, I love working on side projects. I am currently rebuilding my personal website in Angular.
+Since I did a complete field switch from computational linguistics to web development, I have a lot to learn and am always working on side projects.
+
+Currently, I am rebuilding my personal website in Angular. Check it out [here](https://github.com/eric-sclafani/website).
 
 I have many more project ideas to try out so stay tuned 😉
 
-## Trophies
+## Other stuff
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-sclafani&hide=Jupyter+Notebook,Lua&layout=donut&exclude_repo=eric-sclafani.github.io&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/eric-sclafani/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eric-sclafani&theme=juicyfresh&margin-w=15&title=-Reviews)](https://github.com/eric-sclafani/github-profile-trophy)
 
