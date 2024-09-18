@@ -8,7 +8,7 @@ I have many more project ideas to try out so stay tuned 😉
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eric-sclafani&theme=onedark&margin-w=15)](https://github.com/eric-sclafani/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eric-sclafani&theme=juicyfresh&margin-w=15&title=-Reviews)](https://github.com/eric-sclafani/github-profile-trophy)
 
 <!--
 **eric-sclafani/eric-sclafani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
