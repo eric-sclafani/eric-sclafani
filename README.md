@@ -4,8 +4,6 @@
 
 Since I did a complete field switch from computational linguistics to web development, I have a lot to learn and am always working on side projects.
 
-Currently, I am rebuilding my personal website in Angular. Check it out [here](https://github.com/eric-sclafani/website).
-
 I have many more project ideas to try out so stay tuned 😉
 
 ## Other stuff
