@@ -8,7 +8,7 @@ I have many more project ideas to try out so stay tuned 😉
 
 ## Other stuff
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-sclafani&hide=Jupyter+Notebook,Lua&layout=donut&exclude_repo=eric-sclafani.github.io&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/eric-sclafani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-sclafani&hide=Jupyter+Notebook,Lua,CSS,HTML&layout=donut&exclude_repo=eric-sclafani.github.io&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/eric-sclafani/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eric-sclafani&theme=juicyfresh&margin-w=15&title=-Reviews)](https://github.com/eric-sclafani/github-profile-trophy)
 
