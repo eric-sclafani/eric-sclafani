@@ -1,6 +1,6 @@
 ## ⭐ Eric Sclafani ⭐
 
-[Computational linguistics](https://plato.stanford.edu/entries/computational-linguistics/) graduate turned fullstack .NET Developer currently employed at the **Kings County District Attorney's Office**.
+[Computational linguistics](https://plato.stanford.edu/entries/computational-linguistics/) graduate turned fullstack .NET Developer.
 
 Since I did a complete field switch from computational linguistics to web development, I have a lot to learn and am always working on side projects.
 
