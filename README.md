@@ -2,10 +2,6 @@
 
 [Computational linguistics](https://plato.stanford.edu/entries/computational-linguistics/) graduate turned fullstack .NET Developer.
 
-Since I did a complete field switch from computational linguistics to web development, I have a lot to learn and am always working on side projects.
-
-I have many more project ideas to try out so stay tuned 😉
-
 ## Other stuff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-sclafani&hide=Jupyter+Notebook,Lua,MDX,SCSS,Typst,Python,c%2B%2B,cmake,swift,c&layout=donut&exclude_repo=eric-sclafani.github.io&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/eric-sclafani/github-readme-stats)
